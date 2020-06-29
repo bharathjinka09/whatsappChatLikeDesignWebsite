@@ -20,7 +20,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Bharath',
     'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:bharathjinka09@gmail.com">bharathjinka09@gmail.com</a>',
+    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:bharathjinka09@gmail.com">bharathjinka09@gmail.com</a> <br> Phone: +91 9110334114',
     '<a target="_blank" href="https://twitter.com/bharathjinka09">twitter.com/bharathjinka09</a><br><a target="_blank" href="https://instagram.com/bharathjinka09">instagram.com/bharathjinka09</a><br><a target="_blank" href="https://github.com/bharathjinka09">github.com/bharathjinka09</a>',
     getCurrentTime(),
     'J.Ranga Bharath'
